@@ -1,0 +1,4 @@
+https://github.com/digitalcraftsman/hugo-agency-theme
+https://github.com/kakawait/hugo-tranquilpeak-theme
+https://github.com/gcushen/hugo-academic
+
